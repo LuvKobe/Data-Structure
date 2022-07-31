@@ -2,7 +2,7 @@
 
 ***wassup guys！我是 Edison！***
 
-[![CSDN](https://gitee.com/LuvKobe/cloudimg/raw/master/img/202207312219961.svg+xml;charset=utf-8)](https://blog.csdn.net/m0_63325890/category_11437973.html)
+[![CSDN](https://img.shields.io/badge/CSDN-%E5%A4%A7%E7%94%BB%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-yellow?logo=Aerom%C3%A9xico&logoWidth=20)](https://blog.csdn.net/m0_63325890/category_11437973.html)
 
 本仓库所有教程均发布在 [CSDN](https://blog.csdn.net/m0_63325890?type=blog) 的 [「数据结构」专栏](https://blog.csdn.net/m0_63325890/category_11437973.html?spm=1001.2014.3001.5482)。
 
